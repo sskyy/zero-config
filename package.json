@@ -1,10 +1,10 @@
 {
   "name": "zero-configure",
   "version": "0.0.1",
-  "description" : "zero module",
-  "zero" : {
-    "dependencies" : {
-    }
+  "description": "zero module",
+  "zero": {
+    "dependencies": {},
+    "name": "config"
   },
-  "author" : "jiamiu"
+  "author": "jiamiu"
 }
