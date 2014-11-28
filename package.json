@@ -1,7 +1,10 @@
 {
   "name": "zero-configure",
-  "version": "0.0.7",
-  "description": "zero module",
+  "version": "0.0.8",
+  "keywords": [
+    "zero module"
+  ],
+  "description": "This module allow you use a config.json file to overwrite module's config which declared the dependency of this module.",
   "zero": {
     "dependencies": {
       "request": "^0.0.1"
